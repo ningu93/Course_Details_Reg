@@ -20,8 +20,9 @@ The CAD Desk Course Details website is designed to provide information about the
 - JavaScript
 
 ## How to Use
-The file contents three files webpage.html, webpage.css and a file consiste of images.
+The file contents four files webpage.html, webpage.css, a file consiste of images and a file which has the steps to link google sheets with html code. 
 1. Open the `webpage.html` file and run the code. The file includes html and the javascript in it.
 2. The `webpage.css` file is a style sheet which includes all the style of the website. 
 3. Explore the website to view course details and access course content.
 4. If you want to change any images in the project you can change the path of the image relaping with the image you want.
+5. There is pdf file which demonstrate how to connect google sheets with the html code so go and check the file.
