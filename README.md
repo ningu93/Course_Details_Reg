@@ -26,3 +26,5 @@ The file contents four files webpage.html, webpage.css, a file consiste of image
 3. Explore the website to view course details and access course content.
 4. If you want to change any images in the project you can change the path of the image relaping with the image you want.
 5. There is pdf file which demonstrate how to connect google sheets with the html code so go and check the file.
+
+# OUTPUT
